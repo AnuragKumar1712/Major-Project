@@ -1,0 +1,11 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: black;
+    color: rgb(25, 24, 24);
+}
+
+.display-4{
+    margin-top: 20px;
+}
